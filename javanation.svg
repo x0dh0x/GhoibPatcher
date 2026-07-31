@@ -41,7 +41,7 @@
   <circle cx="64" cy="28" r="5" fill="#27C93F"></circle>
 
   <!-- Terminal title bar text -->
-  <text x="300" y="26" text-anchor="middle" font-family="'SF Mono','Fira Code','Cascadia Code',monospace" font-size="12" fill="#8b949e">Android Smali Pacther</text>
+  <text x="300" y="26" text-anchor="middle" font-family="'SF Mono','Fira Code','Cascadia Code',monospace" font-size="12" fill="#8b949e">Android Smali Patcher</text>
 
   <!-- Shield icon -->
   <g transform="translate(42, 58)" filter="url(#glow)">
