@@ -36,12 +36,12 @@
   <rect x="1" y="1" width="598" height="198" rx="15" fill="none" stroke="url(#accentGrad)" stroke-width="1.5" opacity="0.6"></rect>
 
   <!-- Terminal dots -->
-  <circle cx="28" cy="22" r="5" fill="#FF5F56"></circle>
-  <circle cx="46" cy="22" r="5" fill="#FFBD2E"></circle>
-  <circle cx="64" cy="22" r="5" fill="#27C93F"></circle>
+  <circle cx="28" cy="28" r="5" fill="#FF5F56"></circle>
+  <circle cx="46" cy="28" r="5" fill="#FFBD2E"></circle>
+  <circle cx="64" cy="28" r="5" fill="#27C93F"></circle>
 
   <!-- Terminal title bar text -->
-  <text x="300" y="26" text-anchor="middle" font-family="'SF Mono','Fira Code','Cascadia Code',monospace" font-size="12" fill="#8b949e">Smali Pacther</text>
+  <text x="300" y="26" text-anchor="middle" font-family="'SF Mono','Fira Code','Cascadia Code',monospace" font-size="12" fill="#8b949e">Android Smali Pacther</text>
 
   <!-- Shield icon -->
   <g transform="translate(42, 58)" filter="url(#glow)">
