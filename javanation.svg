@@ -73,7 +73,7 @@
   </g>
 
   <!-- Main title: HACKING -->
-  <text x="160" y="110" font-family="'SF Mono','Fira Code','Cascadia Code','Courier New',monospace" font-size="52" font-weight="bold" fill="url(#accentGrad)" filter="url(#softGlow)" letter-spacing="3">
+  <text x="160" y="95" font-family="'SF Mono','Fira Code','Cascadia Code','Courier New',monospace" font-size="52" font-weight="bold" fill="url(#accentGrad)" filter="url(#softGlow)" letter-spacing="3">
     GHOIB
   </text>
 
